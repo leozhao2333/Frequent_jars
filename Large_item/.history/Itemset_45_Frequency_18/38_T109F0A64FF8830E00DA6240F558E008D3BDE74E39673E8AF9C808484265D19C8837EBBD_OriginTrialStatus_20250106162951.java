@@ -9,8 +9,7 @@ import org.openqa.selenium.json.JsonInput;
 @org.openqa.selenium.Beta()
 public enum OriginTrialStatus {
 
-    ENABLED("Enabled"), VALIDTOKENNOTPROVIDED("ValidTokenNotProvided"), OSNOTSUPPORTED("OSNotSupported"),
-    TRIALNOTALLOWED("TrialNotAllowed");
+    ENABLED("Enabled"), VALIDTOKENNOTPROVIDED("ValidTokenNotProvided"), OSNOTSUPPORTED("OSNotSupported"), TRIALNOTALLOWED("TrialNotAllowed");
 
     private String value;
 
@@ -19,9 +18,7 @@ public enum OriginTrialStatus {
     }
 
     public static OriginTrialStatus fromString(String s) {
-        return java.util.Arrays.stream(OriginTrialStatus.values()).filter(rs -> rs.value.equalsIgnoreCase(s))
-                .findFirst().orElseThrow(() -> new org.openqa.selenium.devtools.DevToolsException(
-                        "Given value " + s + " is not found within OriginTrialStatus "));
+        return java.util.Arrays.stream(OriginTrialStatus.values()).filter(rs -> rs.value.equalsIgnoreCase(s)).findFirst().orElseThrow(() -> new org.openqa.selenium.devtools.DevToolsException("Given value " + s + " is not found within OriginTrialStatus "));
     }
 
     public String toString() {
