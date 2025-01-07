@@ -1,0 +1,49 @@
+条目频次,条目编号,开发者,协议,功能
+14,1,Yupiik SAS,Apache-2.0,表示 Kubernetes 中的各种功能
+15,2,未知,未知,实现了一个后端
+17,3,Smooks,Apache-2.0、LGPL-3.0,与EDIFACT 消息（一种国际通用的电子数据交换（EDI）标准）相关
+18,4,Smooks,未知,由smkkos生成，表示 EDIFACT 消息相关信息
+21,5,Alkacon Software GmbH & Co. KG,LGPL-2.1,OpenCms（一个开源的内容管理系统）的一部分，主要用于管理 OpenCms 模块的 Git 集成配置
+19,6,未知,未知,实现了一个 JAXB (Java Architecture for XML Binding) 的各种接口
+22,7,Typesafe,未知,实现了一个Java与Scala之间转换的api
+26,8,未知,未知,是 InterMine 生物信息学数据模型的一部分
+15,9,Smooks,Apache-2.0、LGPL-3.0,"通过JAXB（Java Architecture for XML Binding）生成的，用于表示和处理EDIFACT（Electronic Data Interchange for Administration, Commerce, and Transport）格式的XML数据"
+20,10,WhyLabs API,未知,实现了WhyLabs客户端的认证和工具模块
+85,12,Amazon,Apache-2.0,AWS SDK for Java 的一部分，用于支持 AWS 服务端点的动态解析和管理
+23,13,由OpenAPI生成,未知,是 ARTIK Cloud API 客户端的一部分
+15,16,由OpenAPI生成,未知,是 Kntrl API 客户端的一部分
+15,17,Amazon,Apache-2.0,AWS SDK for Java 的一部分，旨在支持 AWS 服务
+14,18,Open Networking Laboratory,Apache-2.0,ONOS 项目的一部分，旨在提高网络链路信息处理的效率
+16,19,未知,未知,Selenium DevTools 的一部分，主要用于处理与 Chrome DevTools Protocol 相关的性能分析数据
+26,20,Fideo API,未知,某一个项目的客户端代码
+14,23,Foxdeli,未知,某一个项目的客户端代码的API 库
+18,26,Eclipse Foundation,未知,用于测试 OSGi Bundle 和服务的工具类
+15,28,Kntrl,未知,某一个项目的客户端代码，用于处理HTTP请求认证逻辑
+14,30,UAM,未知,实现客户端与 API 服务器进行数据的交互
+16,34,Lightbend,未知,处理 Protocol Buffers 消息
+15,35,Open Networking Laboratory,未知,ONOS 项目中路由管理模块的核心组件
+15,36,Android Open Source Project,Apache-2.0,NineOldAndroids 库的核心组件之一，用于在低版本 Android 设备上实现与高版本一致的动画效果
+17,37,未知,未知,方便开发者解析和构建 Flush 消息
+15,39,未知,未知,实现了浏览器开发者工具和自动化测试工具
+22,41,未知,未知,某个Android应用的客户端代码
+18,45,未知,未知,主要用于浏览器开发者工具、自动化测试和 Web 开发场景，帮助开发者管理和验证 Origin Trial 的状态
+14,46,Amazon,Apache-2.0,AWS SDK for Java 的一部分，专门用于与 AWS Amplify 服务交互
+16,47,Medsea Business Solutions,Apache-2.0,检测并处理文件或数据的 MIME 类型
+18,48,由OpenAPI生成,未知,用于管理服务器的 URL 模板及其变量
+22,49,由OpenAPI Generator与Swagger Codegen生成,未知,某个与RESTful API 交互的客户端库的一部分
+14,50,Aspose Pty Ltd,未知,一个完整的API客户端框架
+44,55,由Eclipse Implementation of JAXB生成,未知,处理XML数据的序列化和反序列化
+14,57,Wordnik,Apache-2.0,实现一个基于Java的RESTful API服务（后端）
+16,58,Google,未知,Google Protocol Buffers（简称 Protobuf）库的一部分，用于处理数据的序列化和反序列化
+15,67,未知,未知,基于W3C的XML签名语法和处理规范（XML Signature Syntax and Processing）的Java实现
+14,78,Search Solution Corporation,未知,CUBRID数据库的JDBC驱动程序的一部分
+14,79,自动生成,未知,OpenCV库的一部分
+14,85,自动生成,未知,处理以太坊智能合约的ABI（Application Binary Interface）数据类型
+14,87,Baidu,Apache-2.0,实现了一个分布式唯一ID生成器（UID Generator），通常用于在分布式系统中生成全局唯一的ID
+18,88,未知,未知,实现了一个基于MaLiLib的配置管理系统，主要用于Minecraft模组的配置管理
+16,89,未知,未知,用于与浏览器开发者工具（DevTools）进行交互的Java类
+14,90,"INRIA, France Telecom",未知,ASM（一个用于 Java 字节码操作的框架）的一部分，主要用于在编译时或运行时对 Java 字节码进行操作和分析
+14,96,未知,未知,实现了一系列与网络、字符串、日期和格式化相关的实用功能
+14,98,Oracle,Apache-2.0,定义和管理Oracle的云服务SDK中的工作请求（Work Request）相关的枚举、模型和集合类
+14,109,Red Hat Middleware,LGPL-2.1,JBoss应用服务器中与Web服务（Web Services）相关的模块的一部分，主要用于处理Web服务的部署、调用、安全性和资源管理等功能
+14,112,"INRIA, France Telecom",未知,ASM（一个用于 Java 字节码操作的框架）的一部分，主要用于在编译时或运行时对 Java 字节码进行操作和分析
